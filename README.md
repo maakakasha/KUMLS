@@ -1,6 +1,6 @@
 # sqlite_applicatoin
 
-A new Flutter project.
+A new Flutter project, MCQ's application for medical students for the sake of creating their own questions and answering them accordingly
 
 ## Getting Started
 
